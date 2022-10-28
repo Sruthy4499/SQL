@@ -3,5 +3,5 @@ CREATE TABLE Instagram (
     Messages varchar(255),
     Stories varchar(255),
     Posts varchar(255),
-    Users varchar(255)
+    User varchar(255)
 );
