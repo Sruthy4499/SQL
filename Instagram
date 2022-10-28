@@ -1,2 +1,7 @@
-
-CREATE DATABASE Instagram;
+CREATE TABLE Instagram (
+    Instagram_id int,
+    Messages varchar(255),
+    Stories varchar(255),
+    Posts varchar(255),
+    Users varchar(255)
+);
